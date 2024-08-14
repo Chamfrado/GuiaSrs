@@ -1,24 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import { BrowserRouter as Router, Route, Routes, NavLink } from 'react-router-dom';
+import Home from './pages/Home'; // Certifique-se de que a capitalização corresponda
+import { Nav, Navbar, NavbarBrand, NavbarText, NavItem } from "reactstrap";
+import MainNavBar from "./Components/MainNavBar";
 
-function App() {
+function App(args) {
+
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div>
+        <MainNavBar/>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          {/* Outras rotas */}
+        </Routes>
+      </div>
+    </Router>
   );
 }
 
