@@ -1,6 +1,6 @@
 import { Container } from "reactstrap"
 
-const Home = () => {
+const Cidade = () => {
 
     return(
         <Container>
@@ -9,4 +9,4 @@ const Home = () => {
     )
 }
 
-export default Home
+export default Cidade
