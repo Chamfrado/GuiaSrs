@@ -1,6 +1,6 @@
 import { Route, Routes } from "react-router-dom"
 import MainNavBar from "../Components/MainNavBar"
-import Home from "../pages/Cidade"
+import Cidade from "../pages/Cidade"
 
 const AppRoutes = () => {
 
@@ -8,7 +8,7 @@ const AppRoutes = () => {
         <div>
         <MainNavBar/>
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/" element={<Cidade />} />
           {/* Outras rotas */}
         </Routes>
         </div>
