@@ -1,0 +1,121 @@
+[
+    {
+      "nome": "Dija Gastronomia",
+      "endereco": "Rua Coronel Antonio Moreira da Costa 320, Santa Rita do Sapucaí, Minas Gerais 37540-000, Brasil",
+      "descricao": {
+        "cozinhas": ["Steakhouse", "Brasileira", "Internacional", "Sopa", "Sul-americana"],
+        "refeicoes": ["Almoço", "Jantar"],
+        "vantagens": ["Para levar", "Lugares para sentar", "Serviço de mesa"]
+      },
+      "horario_de_funcionamento": {
+        "segunda-feira": "11:30–14:00",
+        "terça-feira": "11:30–14:00",
+        "quarta-feira": "11:30–14:00",
+        "quinta-feira": "11:30–14:00",
+        "sexta-feira": "11:30–14:00",
+        "sábado": "11:30–14:00",
+        "domingo": "11:30–14:00"
+      },
+      "contato": "+55 35 9917-3536"
+    },
+    {
+      "nome": "Restaurante Bar do Bá",
+      "endereco": "Av. Sapucaí, 77, Santa Rita do Sapucaí, Minas Gerais 37540-000, Brasil",
+      "descricao": {
+        "cozinhas": ["Brasileira", "Bar"],
+        "refeicoes": ["Almoço", "Jantar", "Drinks"],
+        "vantagens": [
+          "Entrega",
+          "Para levar",
+          "Reservas",
+          "Bufê",
+          "Lugares para sentar",
+          "Cadeiras para bebês",
+          "Acesso para cadeirantes",
+          "Serve bebida alcoólica",
+          "Bar completo",
+          "Aceita MasterCard",
+          "Aceita Visa",
+          "Aceita cartão de crédito",
+          "Serviço de mesa",
+          "Familiar"
+        ]
+      },
+      "horario_de_funcionamento": "Não especificado",
+      "contato": "+55 35 3471-1142"
+    },
+    {
+      "nome": "Picanha da Pedra",
+      "endereco": "Praça Santa Rita - Centro, Santa Rita do Sapucaí, Minas Gerais 37540-000, Brasil",
+      "descricao": "Restaurante especializado em picanha.",
+      "horario_de_funcionamento": {
+        "segunda-feira": "11:00–23:00",
+        "terça-feira": "11:00–23:00",
+        "quarta-feira": "11:00–23:00",
+        "quinta-feira": "11:00–23:00",
+        "sexta-feira": "11:00–23:00",
+        "sábado": "11:00–23:00",
+        "domingo": "11:00–23:00"
+      },
+      "contato": "+55 35 99982-9103"
+    },
+    {
+      "nome": "Boteco dos Malas",
+      "endereco": "Av. João de Camargo, 2 - Vista Alegre, Santa Rita do Sapucaí, Minas Gerais 37540-000, Brasil",
+      "descricao": {
+        "opcoes_de_servico": ["Mesas externas", "Serve ótimos coquetéis", "Serve comida no bar"]
+      },
+      "horario_de_funcionamento": {
+        "segunda-feira": "Fechado",
+        "terça-feira": "17:00–23:00",
+        "quarta-feira": "17:00–23:00",
+        "quinta-feira": "17:00–23:00",
+        "sexta-feira": "17:00–23:00",
+        "sábado": "17:00–23:00",
+        "domingo": "17:00–23:00"
+      },
+      "contato": "+55 35 99944-8084"
+    },
+    {
+      "nome": "Beer House SRS",
+      "endereco": "Praça Min. Delfim Moreira Jr., 54 - Centro, Santa Rita do Sapucaí, Minas Gerais 37540-000, Brasil",
+      "descricao": "Bar com ampla seleção de cervejas.",
+      "horario_de_funcionamento": {
+        "segunda-feira": "Fechado",
+        "terça-feira": "18:00–23:00",
+        "quarta-feira": "18:00–23:00",
+        "quinta-feira": "18:00–23:00",
+        "sexta-feira": "18:00–23:00",
+        "sábado": "18:00–23:00",
+        "domingo": "18:00–23:00"
+      },
+      "contato": "+55 35 99196-5696"
+    },
+    {
+      "nome": "Mundial Pães",
+      "endereco": "R. Cel. Francisco Palma, 172 - Centro, Santa Rita do Sapucaí, Minas Gerais 37540-000, Brasil",
+      "horario_de_funcionamento": {
+        "segunda-feira": "07:00–20:00",
+        "terça-feira": "07:00–20:00",
+        "quarta-feira": "07:00–20:00",
+        "quinta-feira": "07:00–20:00",
+        "sexta-feira": "07:00–20:00",
+        "sábado": "07:00–20:00",
+        "domingo": "Fechado"
+      }
+    },
+    {
+      "nome": "Padaria Padoca",
+      "endereco": "Av. Frederico de Paula Cunha, 51 - Centro, Santa Rita do Sapucaí, Minas Gerais 37540-000, Brasil",
+      "horario_de_funcionamento": {
+        "segunda-feira": "08:30–19:00",
+        "terça-feira": "08:30–19:00",
+        "quarta-feira": "08:30–19:00",
+        "quinta-feira": "08:30–19:00",
+        "sexta-feira": "08:30–19:00",
+        "sábado": "09:00–16:30",
+        "domingo": "Fechado"
+      }
+    }
+  ]
+  

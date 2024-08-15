@@ -19,7 +19,7 @@ const MainNavBar = () => {
     };
 
     return (
-        <Container fluid style={{paddingTop: 10}}>
+        <Container fluid style={{paddingTop: 10, paddingBottom: 10}}>
             <Card body>
 
 
